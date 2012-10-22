@@ -30,7 +30,7 @@ https://github.com/SunriseDigitalStudy/Tmikami-study
 ここからクローンしてきてください。
 
 branchを作って編集してください。
-※パーツごとにbranchを複数作ってください。
+※できそうだったらパーツごとにbranchを複数作ってください。
 
 今回は練習なのでその日の作業が終わったらpushしてください。
 
